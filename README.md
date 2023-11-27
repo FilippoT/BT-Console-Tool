@@ -8,15 +8,15 @@ https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_ter
 _______________________________________________
 Materiali necessari:
 
-1 cavo USB tipo A
+-1 cavo USB tipo A
 
-1 cavo RJ-45
+-1 cavo RJ-45
 
-1 modulo Bluetooth HC-05
+-1 modulo Bluetooth HC-05
 
-1 convertitore di livello MAX332CSE
+-1 convertitore di livello MAX332CSE
 
-1 USB flash drive 
+-1 USB flash drive 
 _______________________________________________
 
 
