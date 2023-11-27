@@ -1,9 +1,9 @@
 # BT-Console-Tool
 "Il progetto molto semplice ed economico da realizzare risolve un bel problema, sostituisce il cavo console con una connessione Bluetooth e incude una memoria flash utile per gli aggiornamenti dei dispositivi.
 
-Inoltre, con la seguente applicazoine è possibile utilizzare uno smartphone android come termiale.
+Inoltre, con la seguente applicazoine è possibile utilizzare uno smartphone Android/iOS come termiale, con la possibilità di creare dei tasti macro per i comandi più usati.
 
-https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
+https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial
 
 _______________________________________________
 Materiali necessari:
