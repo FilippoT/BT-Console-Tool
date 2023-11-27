@@ -1,5 +1,5 @@
 # BT-Console-Tool
-"Il progetto ha come scopo la sostituzione del cavo di console con una connessione Bluetooth e prevede l'integrazione di una memoria flash, utile per gli aggiornamenti dei dispositivi.
+"Il progetto ha come scopo la sostituzione del cavo di console con una connessione Bluetooth e incude una memoria flash utile per gli aggiornamenti dei dispositivi.
 
 Inoltre, con questa applicazoine possiamo utilizzare il nostro smartphone android come termiale.
 
