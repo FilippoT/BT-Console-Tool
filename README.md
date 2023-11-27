@@ -1,7 +1,7 @@
 # BT-Console-Tool
-"Il progetto ha come scopo la sostituzione del cavo di console con una connessione Bluetooth e incude una memoria flash utile per gli aggiornamenti dei dispositivi.
+"Il progetto molto semplice da realizzare risolve un bel problema, sostituisce il cavo console con una connessione Bluetooth e incude una memoria flash utile per gli aggiornamenti dei dispositivi.
 
-Inoltre, con questa applicazoine è possibile utilizzare uno smartphone android come termiale.
+Inoltre, con seguente applicazoine è possibile utilizzare uno smartphone android come termiale.
 
 https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
 
@@ -16,10 +16,11 @@ Materiali necessari:
 
 -1 convertitore di livello MAX332CSE
 
--1 USB flash drive 
+-1 USB flash drive
+
 _______________________________________________
 
-
+RICORDA
 Cambiare la password e il nome del modulo HC-05 è indispensabile per migliorare la sicurezza della connessione Bluetooth e l'identificazione del dispositivo.
 
 
