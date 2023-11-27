@@ -32,6 +32,7 @@ Per controllare se il modulo sia in modalità AT, inviate il comando
 Invia i seguenti comandi AT per cambiare la password e il nome dispositivo:
 
 AT+PSWD=NuovaPassword
+
 AT+NAME=NuovoNome
 
 
