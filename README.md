@@ -24,12 +24,13 @@ Cambiare la password e il nome del modulo HC-05 è indispensabile per migliorare
 
 
 Assicurati che il modulo HC-05 sia in modalità AT. (generalmente 9600 bps)
+
 Puoi farlo tenendo premuto il pulsante di programmazione (KEY) mentre alimenti il modulo.
-Per controllare se il modulo sia in modalità AT, inviate il comando
+Per controllare se il modulo sia in modalità AT, invia il comando
 "AT" nel terminale, Il modulo risponderà con "OK".
 
 
-Invia i seguenti comandi AT per cambiare la password e il nome dispositivo:
+Invia i seguenti comandi per cambiare la password e il nome dispositivo:
 
 AT+PSWD=NuovaPassword
 
