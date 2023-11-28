@@ -37,4 +37,6 @@ AT+PSWD=NuovaPassword
 
 AT+NAME=NuovoNome
 
+NB: la procedura e/o i comandi potrebbero cambiare a seconda della versione firmware preinstallata nel modulo.
+
 
