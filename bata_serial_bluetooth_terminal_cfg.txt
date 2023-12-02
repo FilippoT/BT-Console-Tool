@@ -1,14 +1,12 @@
 {
   "package": "de.kai_morich.serial_bluetooth_terminal",
-  "date": " 20231202-021803",
   "config": {
     "pref_auto_scroll": true,
     "pref_char_delay": "0",
     "pref_charset": "UTF-8",
     "pref_clear_send": true,
-    "pref_device_address": "00:21:13:00:D0:B6",
     "pref_device_le": false,
-    "pref_device_name": "Filippo",
+    "pref_device_name": "BT Console Tool",
     "pref_device_tab": 1,
     "pref_font_family": "1",
     "pref_font_size": "14",
