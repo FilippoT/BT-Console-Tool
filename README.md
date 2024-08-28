@@ -1,4 +1,6 @@
 # BT-Console-Tool
+![image](https://github.com/user-attachments/assets/b9682e6e-7acf-4071-af1f-07ba006e2e3a)
+
 "Il progetto molto semplice ed economico da realizzare risolve un bel fastidio, sostituisce il cavo console con una connessione Bluetooth e incude una memoria flash utile per gli aggiornamenti dei dispositivi.
 
 Inoltre, con la seguente applicazoine è possibile utilizzare uno smartphone Android/iOS come termiale, con la possibilità di creare dei tasti macro per i comandi più usati.
@@ -6,6 +8,7 @@ Inoltre, con la seguente applicazoine è possibile utilizzare uno smartphone And
 https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial
 
 _______________________________________________
+
 Materiali necessari:
 
 -1 cavo USB tipo A
@@ -20,8 +23,13 @@ Materiali necessari:
 
 _______________________________________________
 
+![image](https://github.com/user-attachments/assets/85ba1bac-b0cc-440a-8bbe-72050df56418)
+
+
+
+
 RICORDA
-Cambiare la password e il nome del modulo HC-05 è indispensabile per migliorare la sicurezza della connessione Bluetooth e l'identificazione del dispositivo.
+Cambia la password e il nome del modulo HC-05 per aumentare la sicurezza della connessione Bluetooth.
 
 Utilizza una connessione seriale a 9600 bps;
 Assicurati che il modulo HC-05 sia in modalità AT,
@@ -37,5 +45,8 @@ AT+PSWD=NuovaPassword
 AT+NAME=NuovoNome
 
 NB: la procedura e/o i comandi potrebbero cambiare a seconda della versione firmware preinstallata nel modulo.
+
+![image](https://github.com/user-attachments/assets/d205d0e6-82f7-4179-b780-bb3e8abb413b)
+
 
 
