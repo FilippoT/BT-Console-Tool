@@ -29,6 +29,7 @@ _______________________________________________
 
 Configurazione opzionale del modulo Bluetooth HC-05
 1. Sicurezza e personalizzazione
+
 Per incrementare la sicurezza della connessione, si consiglia di cambiare la password predefinita e il nome del dispositivo.
 
 Configura una connessione seriale a 9600 bps.
