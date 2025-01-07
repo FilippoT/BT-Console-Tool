@@ -50,10 +50,6 @@ Cambia il nome del dispositivo:
 "AT+NAME=NuovoNome"
 
 
-2. Note tecniche
-La modalità AT è fondamentale per configurare correttamente il modulo.
-La procedura e i comandi possono variare in base alla versione del firmware preinstallato nel modulo HC-05. Si consiglia di consultare la documentazione ufficiale del produttore per dettagli specifici.
-
 ![image](https://github.com/user-attachments/assets/d205d0e6-82f7-4179-b780-bb3e8abb413b)
 
 
