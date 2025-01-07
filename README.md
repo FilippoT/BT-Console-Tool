@@ -1,9 +1,9 @@
 # BT-Console-Tool
 ![image](https://github.com/user-attachments/assets/b9682e6e-7acf-4071-af1f-07ba006e2e3a)
 
-"Il progetto molto semplice ed economico da realizzare risolve un bel fastidio, sostituisce il cavo console con una connessione Bluetooth e incude una memoria flash utile per gli aggiornamenti dei dispositivi.
+Questo progetto fornisce una soluzione pratica ed economica per sostituire il tradizionale cavo console con una connessione Bluetooth, eliminando così i limiti fisici di un collegamento cablato. Oltre alla connettività wireless, il sistema integra una memoria flash, ideale per gestire gli aggiornamenti firmware e archiviare configurazioni dei dispositivi.
 
-Inoltre, con la seguente applicazoine è possibile utilizzare uno smartphone Android/iOS come termiale, con la possibilità di creare dei tasti macro per i comandi più usati.
+Grazie all’applicazione dedicata, gli utenti possono utilizzare uno smartphone Android o iOS come terminale, con la possibilità di creare tasti macro personalizzati per automatizzare i comandi più utilizzati. Per dettagli tecnici, consultare la documentazione ufficiale:
 
 https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial
 
@@ -27,24 +27,31 @@ _______________________________________________
 
 
 
+Configurazione opzionale del modulo Bluetooth HC-05
+1. Sicurezza e personalizzazione
+Per incrementare la sicurezza della connessione, si consiglia di cambiare la password predefinita e il nome del dispositivo.
 
-RICORDA
-Cambia la password e il nome del modulo HC-05 per aumentare la sicurezza della connessione Bluetooth.
+Configura una connessione seriale a 9600 bps.
 
-Utilizza una connessione seriale a 9600 bps;
-Assicurati che il modulo HC-05 sia in modalità AT,
-tenendo premuto il pulsante di programmazione (KEY) mentre alimenti il modulo.
-Per controllare se il modulo sia in modalità AT, invia il comando
-"AT" nel terminale, Il modulo risponderà con "OK".
+Porta il modulo HC-05 in modalità AT command: tieni premuto il pulsante di programmazione (KEY) mentre alimenti il modulo.
+
+Verifica l’accesso alla modalità AT inviando il comando:
+"AT"
+Il modulo risponderà con:
+"OK"
+
+Configura il modulo con i seguenti comandi:
+
+Cambia la password:
+"AT+PSWD=NuovaPassword"
+
+Cambia il nome del dispositivo:
+"AT+NAME=NuovoNome"
 
 
-Invia i seguenti comandi per cambiare la password e il nome dispositivo:
-
-AT+PSWD=NuovaPassword
-
-AT+NAME=NuovoNome
-
-NB: la procedura e/o i comandi potrebbero cambiare a seconda della versione firmware preinstallata nel modulo.
+2. Note tecniche
+La modalità AT è fondamentale per configurare correttamente il modulo.
+La procedura e i comandi possono variare in base alla versione del firmware preinstallato nel modulo HC-05. Si consiglia di consultare la documentazione ufficiale del produttore per dettagli specifici.
 
 ![image](https://github.com/user-attachments/assets/d205d0e6-82f7-4179-b780-bb3e8abb413b)
 
